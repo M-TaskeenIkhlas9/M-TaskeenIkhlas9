@@ -126,8 +126,12 @@ Full-stack sportswear store — product variants, cart, and **WhatsApp ordering*
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=M-TaskeenIkhlas9&show_icons=true&hide=stars&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-TaskeenIkhlas9&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-TaskeenIkhlas9&theme=tokyonight" />
+
+<br><br>
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-TaskeenIkhlas9&theme=tokyonight" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-TaskeenIkhlas9&theme=tokyonight" />
 
 <br><br>
 
